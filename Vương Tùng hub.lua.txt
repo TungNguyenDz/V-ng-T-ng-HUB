@@ -1,4 +1,4 @@
-local Fluent = loadstring(game:HttpGet("https://github.com/TungNguyenDz/V-ng-T-ng-HUB/blob/main/V%C6%B0%C6%A1ng%20T%C3%B9ng%20hub.lua"))()
+local Fluent = loadstring(game:HttpGet("https://raw.githubusercontent.com/TungNguyenDz/V-ng-T-ng-HUB/main/V%C6%B0%C6%A1ng%20T%C3%B9ng%20hub.lua"))()
 local SaveManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/dawid-scripts/Fluent/master/Addons/SaveManager.lua"))()
 local InterfaceManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/dawid-scripts/Fluent/master/Addons/InterfaceManager.lua"))()
 --------------------------------------------------------------------------------------------------------------------------------------------
